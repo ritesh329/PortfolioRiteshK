@@ -16,7 +16,7 @@ const Home = () => {
             Ritesh Kumar Maurya
           </h1>
           <p className="text-lg md:text-xl text-gray-400 mb-10 leading-relaxed">
-            A passionate <span className="highlight">Full Stack Developer</span> skilled in Node.js, Express.js, HTML, CSS, JavaScript,
+            A passionate <span className="highlight">Full Stack Developer</span> skilled in Node.js, Express.js, React.Js , HTML, CSS, JavaScript,
             Java (JSP/Servlets/JDBC), RESTful APIs, MongoDB, and MySQL. I build secure, scalable, and efficient web applications by combining
             strong backend architecture with clean, responsive front‑end designs.
           </p>
